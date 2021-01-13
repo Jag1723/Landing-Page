@@ -1,0 +1,182 @@
+div ul li a img{
+    width: 30px;
+    height: 30px;
+}
+.image{
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcollege.mayo.edu%2Fmedia%2Fmccms%2Fcontent-assets%2Facademics%2Fexplore-health-care-careers%2Flaboratory-sciences-career-3635221-0065-hero-tablet.jpg&f=1&nofb=1");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+
+}
+.About{
+	height: 550px;
+	width: 100%;
+	padding: 30px 0px 0px 0px;
+}
+.mission{
+    width: 80px;
+    height: 80px;
+}
+.vision{
+    width: 90px;
+    height: 90px;
+    margin: 0px 0px 20px 0px;
+}
+.objective{
+	padding: 80px 0px 60px;
+	height: 600px;
+}
+.objective h2{
+	font-size: 50px;
+	font-weight: bold;
+}
+.card img{
+    border-radius: 60%;
+}
+.different1{
+    height: 237px;
+}
+.different2{
+    height: 237px;
+}
+.contact{
+    height: 530px;
+}
+.footer{
+    background-color:black;
+    width: 100%;
+    margin: 0px;
+}
+.rowsetting{
+	margin: 80px 0px !important;
+}
+.imgsetting{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+.fa-tint{
+	margin-top: 26px;
+}
+.fa-users{
+	margin-top: 23px;
+}
+.rowsetting h2{
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 40px;
+}
+.rowsetting p{
+	padding: 10px;
+	color: #6c757d!important;
+
+}
+.key{
+	height: 1100px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+
+.key h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+.card{
+	margin-top: 40px;
+}
+@media(min-width: 992px){
+
+} 
+
+@media(min-width: 768px) and (max-width: 991px){
+	.headerset h2{
+    font-size: 22px;
+    margin: 20px 0px;
+    
+}
+.headerset h1{
+    font-size: 32px;
+    
+}
+}
+
+@media(min-width: 575px) and (max-width: 767px){
+	.headerset h2{
+    font-size: 22px;
+    margin: 20px 0px;
+    
+	}
+.headerset h1{
+    font-size: 32px;
+    
+}
+.About{
+
+	height: 800px;
+}
+.About h1{
+	margin: 20px 0px;
+}
+.objective{
+	height: 1150px;
+}
+.key{
+	height: 3050px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+.Contact{
+	height: 600px;
+}
+}
+@media(min-width: 460px) and (max-width: 574px){
+	.headerset h2{
+    font-size: 22px;
+    margin: 20px 0px;
+    
+	}
+.headerset h1{
+    font-size: 32px;
+    
+}
+.About{
+	height: 800px;
+}
+.objective{
+	height: 1000px;
+}
+.key{
+	height: 2800px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+.Contact{
+	height: 600px;
+}
+}
+
+@media(max-width: 479px){
+	.headerset h2{
+    font-size: 22px;
+    margin: 20px 0px;
+    
+}
+.headerset h1{
+    font-size: 32px;
+    
+}
+.About{
+	height: 800px;
+}
+.objective{
+	height: 1150px;
+}
+.key{
+	height: 2700px;
+	width: 100%;
+	padding: 100px 0px 50px;
+}
+
+}
